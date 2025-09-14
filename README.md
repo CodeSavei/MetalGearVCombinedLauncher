@@ -7,4 +7,5 @@ Steps to use:
 2. Extract and run the MGSVLauncher.exe, this will generate a config.properties file near the exe.
 3. Quit the launcher and set your path of each game's SHORTCUT in config file. If there's no shortcut of the game, create one near the exe file.
 4. Note: Path name should be formatted in this manner: ground.zeroes.path=C:\\AdiGames\\Metal Gear Solid Ground Zeroes\\MgsGroundZeroes.exe.lnk
+
 phantom.pain.path=C:\\AdiGames\\Metal Gear Solid V - The Phantom Pain\\mgsvtpp.exe.lnk
